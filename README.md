@@ -11,6 +11,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img width="47" height="47" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 <a href="https://expressjs.com/" target="_blank"> <img width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
@@ -51,4 +52,4 @@
 <a align="left" href="https://github.com/saifulbdDev/github-readme-stats"><img alt="saifulbdDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulbdDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/saifulbdDev/github-profile-views-counter"> 
 <a align="right" href="https://github.com/saifulbdDev?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/saifulbdDev?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
-<a href="https://github.com/saifulbdDev/github-readme-activity-graph"><img alt="Saiful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifulbdDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<a href="https://github.com/saifulbdDev/github-readme-activity-graph"><img alt="Saiful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifulbdDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
