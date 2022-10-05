@@ -1,18 +1,11 @@
 
-<h5>
-   <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1DXAUUCqj_szWZeZDj0vQ3VK-czgr5gXf/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://github.com/saifulbdDev"  rel="noopener noreferrer" >My gitlab account</a></strong>
-</h5>
-<h4 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h4>
-   <h5 align="left">I am an self taught innovative JavaScript Developer with 3 years experience in blending the art of design with the skill of object-oriented programming.
-</h5> 
-<br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-<a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
+<a href="https://expressjs.com/" target="_blank"> <img width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
 <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="48" height="46" src="https://miro.medium.com/max/1062/1*UOcMh43IDlvj6_cXkETQ4Q.gif"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img width="48" height="46"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" /> </a>
