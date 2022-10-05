@@ -43,7 +43,7 @@
          
  <h3> 🙋‍♂️ About Me </h3>
  
- - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
+ - 🌱 I’m currently learning Solid principles, Data Structures and Algorithms, Vue Js, Vuex, React js, Redux, TypeScript, Nuxt Js and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
  - 👨‍💻 All of my projects are available at [coming soon](https://github.com/saifulbdDev)
  - 📫 How to reach me [saiful.islam.devs@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=saiful.islam.devs@gmail.com)
