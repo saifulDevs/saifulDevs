@@ -1,6 +1,6 @@
 
 <h5>
-   <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1DXAUUCqj_szWZeZDj0vQ3VK-czgr5gXf/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://github.com/saifulbdDev"  rel="noopener noreferrer" >My gitlab account</a></strong>
+   <strong align="left"> <a  align="left" href="https://docs.google.com/document/d/11CBYUY0wgqrdesYqjDQDXPBdOVfVgiBlMal-NNLLL-c/edit?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://github.com/saifulbdDev"  rel="noopener noreferrer" >My gitlab account</a></strong>
 </h5>
 <h4 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h4>
    <h5 align="left">I am an self taught innovative JavaScript Developer with 3 years experience in blending the art of design with the skill of object-oriented programming.
