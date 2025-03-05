@@ -51,5 +51,5 @@
 
 <a align="left" href="https://github.com/saifulDevs/github-readme-stats"><img alt="saifulDevs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulbdDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/saifulDevs/github-profile-views-counter"> 
-<a align="right" href="https://github.com/saifulDevs?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/saifulbdDev?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
+<a align="right" href="https://github.com/saifulDevs?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/saifulDevs?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
 <a href="https://github.com/saifulDevs/github-readme-activity-graph"><img alt="Saiful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifulDevs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
