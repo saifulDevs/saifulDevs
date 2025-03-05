@@ -3,7 +3,7 @@
    <strong align="left"> <a  align="left" href="https://docs.google.com/document/d/1MUfOMBDqvLmBtzXeQQn-ls6k88zVnMS3YodOCQo2OPk/edit?tab=t.0"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://github.com/saifulDevs"  rel="noopener noreferrer" >My gitlab account</a></strong>
 </h5>
 <h4 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h4>
-   <h5 align="left">I am an self taught innovative JavaScript Developer with 4 years experience in blending the art of design with the skill of object-oriented programming.
+   <h5 align="left">I am an self taught innovative JavaScript Developer with 5 years experience in blending the art of design with the skill of object-oriented programming.
 </h5> 
 <br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
@@ -45,11 +45,11 @@
  
  - 🌱 I’m currently learning Solid principles, Data Structures and Algorithms, Vue Js, Vuex, React js, Redux, TypeScript, Nuxt Js and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
- - 👨‍💻 All of my projects are available at [coming soon](https://github.com/saifulbdDev)
+ - 👨‍💻 All of my projects are available at [coming soon](https://github.com/saifulDevs)
  - 📫 How to reach me [saiful.islam.devs@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=saiful.islam.devs@gmail.com)
    </br>
 
-<a align="left" href="https://github.com/saifulbdDev/github-readme-stats"><img alt="saifulbdDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulbdDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
-<a align="left" href="https://github.com/saifulbdDev/github-profile-views-counter"> 
-<a align="right" href="https://github.com/saifulbdDev?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/saifulbdDev?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
-<a href="https://github.com/saifulbdDev/github-readme-activity-graph"><img alt="Saiful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifulbdDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a align="left" href="https://github.com/saifulDevs/github-readme-stats"><img alt="saifulDevs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulbdDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
+<a align="left" href="https://github.com/saifulDevs/github-profile-views-counter"> 
+<a align="right" href="https://github.com/saifulDevs?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/saifulbdDev?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
+<a href="https://github.com/saifulDevs/github-readme-activity-graph"><img alt="Saiful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifulDevs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
