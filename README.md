@@ -38,7 +38,7 @@
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=saiful.islam.devs@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
 <a href = "https://www.linkedin.com/in/saiful-islam-18013313a/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
 <a href = "https://web.facebook.com/saiful953"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
-<a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
+
 </p>
          
  <h3> 🙋‍♂️ About Me </h3>
